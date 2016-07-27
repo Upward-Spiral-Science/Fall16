@@ -1,4 +1,4 @@
-# Fall16
+# NeuroData Design
 
 This should be the best class you ever take! That's because it will be what you make of it, and you are awesome.
 More specifically, what i expect to happen is the following
